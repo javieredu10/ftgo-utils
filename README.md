@@ -36,7 +36,7 @@
 Install the package directly from the GitHub repository:
 
 ```bash
-pip install git+https://github.com/deepmancer/ftgo-utils.git
+pip install git+https://github.com/javieredu10/ftgo-utils.git
 ```
 
 ---
