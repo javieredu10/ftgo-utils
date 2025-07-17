@@ -15,7 +15,7 @@ setup(
         "colorama",
         "dataclasses",
         "geojson",
-        "h3>=3.7.0",
+        "h3",
         "httpx",
         "loguru",
         "passlib",
